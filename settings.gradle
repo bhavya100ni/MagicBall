@@ -1,0 +1,2 @@
+rootProject.name='magicball'
+include ':app'
