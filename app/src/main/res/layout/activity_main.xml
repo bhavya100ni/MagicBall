@@ -36,7 +36,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="60dp"
             android:background="#453636"
-            android:text="Make Everyday Decisions Easier!"
+            android:text="Make Everyday Decisions Harder!"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
